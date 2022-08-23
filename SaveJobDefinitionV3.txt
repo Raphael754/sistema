@@ -1,0 +1,2 @@
+Id_Externo\tDocumento\tData_Referencia
+1\t43687524817\t23/08/2022
